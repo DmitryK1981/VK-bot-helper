@@ -1,0 +1,11 @@
+.venv/
+.env
+users/
+logs/
+__pycache__/
+.vkbottle/
+.pytest_cache/
+*.corrupt-*.json
+*.tmp
+.idea/
+.vscode/

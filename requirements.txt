@@ -1,0 +1,4 @@
+vkbottle>=4.11,<5
+google-genai>=2.0
+pydantic>=2.7
+pydantic-settings>=2.3
